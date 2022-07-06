@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+}
+section,div{
+    display:flex;
+    text-align: center;
+}
+.box{
+    width: 18%;
+    height: 100px;
+    margin-right: 20px;
+    background-color: rgb(27, 128, 216);
+}
